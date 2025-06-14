@@ -1,0 +1,44 @@
+body{
+    background-color: #eedaf1;
+font-family: Arial, Helvetica, sans-serif;
+padding: 20px;
+text-align: center;
+text-decoration-color: rgb(212, 148, 63);
+
+}
+ 
+h1{
+    color: #f27d39;
+} 
+h4{
+    color: rgb(237, 175, 94);
+}
+img{
+    border-radius: 5%;
+    box-shadow: #312828;
+    margin: 30px;
+}
+a{
+    text-decoration: overline;
+    color: rgb(159, 18, 187);
+}
+a:hover{
+    background-color: rgb(203, 139, 61);
+    text-decoration: none;
+    border: 20px
+}
+
+footer {
+    text-align: center;
+  font-size: 24px;
+  color: #7f6464;
+  padding: 90px;
+}
+footer a :hover{
+    background-color: aqua;
+    color: #4f4adc;
+    text-decoration: none;
+    margin: 0 20px;
+    border: #121c1c;
+}
+
